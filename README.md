@@ -9,9 +9,9 @@ Male | 22| Jordanian | Amman
 
 
 
-#### my email :[here](yazan-ahmed1999a@outlook.com)
+#### my email :yazan-ahmed1999a@outlook.com
 
-#### 0770181800
+#### my phone number : 0770181800
 
 #### my link click  [here](https://github.com/YazanAhmad18)
 ![73144519-4f77-4dbb-9e73-923879b6a252](https://user-images.githubusercontent.com/81154212/112147510-76182e80-8be5-11eb-8d2e-458d67eae2ce.jpg)
