@@ -7,6 +7,12 @@ Gender | age | Nationality | Address
 ------------ | ------------- | ------------- | -------------
 Male | 22| Jordanian | Amman
 
+
+
+#### my email :[here](yazan-ahmed1999a@outlook.com)
+
+#### 0770181800
+
 #### my link click  [here](https://github.com/YazanAhmad18)
 ![73144519-4f77-4dbb-9e73-923879b6a252](https://user-images.githubusercontent.com/81154212/112147510-76182e80-8be5-11eb-8d2e-458d67eae2ce.jpg)
 
@@ -24,3 +30,6 @@ Male | 22| Jordanian | Amman
 * _i always keep thinking is success of all aspects in my life_
 * _i always keep telling my mind with positive thoughts_
 * _i always give time for my self to think what i if give up for  chalenges this give me alot of motivation  to do my best to not reach this level of giving up_
+
+
+
