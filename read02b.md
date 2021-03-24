@@ -5,6 +5,4 @@
  * Centralized Version Control
  
  
- ## i understand the concept of git a system based on tracking files and also the changes that may occur to files and storing them, thus reducing the chance of information loss. Git traces its roots to the open source software project Linux kernel.and i understand how i can install git on my computer and link it with github and how i can make project in git
-
-## i learned how local git works , how save changes ,life  cycle of files , check the status of files , how tracking files and commit the changes and push them
+ ## i understand the concept of git a system based on tracking files and also the changes that may occur to files and storing them, thus reducing the chance of information loss. Git traces its roots to the open source software project Linux kernel.and i understand how i can install git on my computer and link it with github and how i can make project in git .i learned how local git works , how save changes ,life  cycle of files , check the status of files , how tracking files and commit the changes and push them
