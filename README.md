@@ -26,6 +26,7 @@ read01       |   [texteditor](read01.md)
 read02a      |   [markdown](read02a.md)
 read02b      |   [Version Control ](read02b.md)
 lab02a |   [growthmindset](GrowthMindset.md)
+read03 | [html&css](read03.md)
 
 
 
