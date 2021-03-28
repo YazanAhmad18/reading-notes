@@ -4,10 +4,10 @@
 * !=: not equal to this operator compare two values if they are not the same
 * === : strict equal to  this operator compare two  values to check that both of the values are the same in the data type and the value
 * !== : strict not equal to this operator compare two  values to check that both of the values are not the same in the data type and the value
-*  > :  greater than this operator check if the number in the left greater than the number in the right
+* (>)  :  greater than this operator check if the number in the left greater than the number in the right
 *  < : less than this operator check if the number in the left less than the number in the right
 * <= : less than or equal this operator check if the number in the left less than or equal the number in the right
-*  >= : greater than or equal  this operator check if the number in the left greater than the number in the right
+*  (>=) : greater than or equal  this operator check if the number in the left greater than the number in the right
 
 ### the the logical operator  allow us to compare the result of more than one comparison operator
 ### some logical operator:
