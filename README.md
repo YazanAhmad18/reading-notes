@@ -28,7 +28,7 @@ read02b      |   [Version Control ](read02b.md)
 lab02a |   [growthmindset](GrowthMindset.md)
 read03 | [html&css](read03.md)
 read04 | [javascript](read04.md)
-
+read05 |  [loops](read05.md)
 
 
 
