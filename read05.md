@@ -12,7 +12,7 @@
 ### the the logical operator  allow us to compare the result of more than one comparison operator
 ### some logical operator:
 *  && : and this operator test more than one conditon
-*  | | : or this operator test at least  one condition
+*  (||) : or this operator test at least  one condition
 *  ! : not this operator take the value of boolean and then inverts it
 
 
