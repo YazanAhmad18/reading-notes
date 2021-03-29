@@ -15,7 +15,7 @@ for that box ( background-color: rgb(0,0,0);)
 
 ### css3 has introduced an extra value for rgb colors to indicate opacity. It is known as rgba
 
-### hls:olor property has been introduced in CSS3 as an alternative way to specify colors the element in inside the hls:
+### hsl:olor property has been introduced in CSS3 as an alternative way to specify colors the element in inside the hls:
 * hue
 * saturation
 * lightness
