@@ -73,14 +73,14 @@ the file it is linked to.
 `var colors =new Array('white ' ,'black','custom'); `
 * the numbring in array start from zero not one in the list we can access and modify the values in array
  
-#### there is two type of expression  one we use it to assing value  to variable and the other we use it to combine more than one value to return it in to single value : 
+#### there is two type of expression  one we use it to assign value  to variable and the other we use it to combine more than one value to return it in to single value : 
 * `var color = 'beige'`;
 * `var area = 3 * 2`;
-##### there is two types or operators arthmatic and logical
-* (+,-,*,/,%,...) arthmatic
+##### there is two types or operators arithmetic and logical
+* (+,-,*,/,%,...) arithmetic
 * (and , or , not) logical 
 
-* the code can take more than one path so we need to control the data flow to know wich path the code will select we have to evaluate and decide then use loops when it is nessary , the flow chart can help us to make decisions 
+* the code can take more than one path so we need to control the data flow to know wich path the code will select we have to evaluate and decide then use loops when it is necessary  , the flow chart can help us to make decisions 
 
 ### the components of decisions :
 * expression
@@ -104,9 +104,7 @@ the file it is linked to.
 
 ### in any condition it will be one operand and two operatorwe can combine more than one condition through logical operator and we can compare more than on expression in on statement through logical operator
 
-### switch statements :a starts with avariable called the switch value.
-Each case indicates a possible value for this variable and the
-code that should run if the variable matches that value.
+### switch statements :a starts with avariable called the switch value.Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
 
 ~~~~var level = 2;
 switch (level) {
