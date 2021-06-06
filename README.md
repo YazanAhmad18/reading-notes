@@ -58,7 +58,7 @@ read14b|                [teamwork](class14b.md)
 class        |           link  
 ------------ | ------------- 
 read01      | [Introduction to React and Components](301/read01.md)
-read02        |
+read02        |[lifecycle](301/read02.md)
 read03       |  
 read04       |  
 read05 |         
