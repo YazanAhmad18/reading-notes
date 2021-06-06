@@ -1,7 +1,8 @@
 # React lifecycle :
- ## Based on the diagram, what happens first, the ‘render’ or the ‘componentDidMount’? depends on the diagram  render is going to be first 
+ 
+ ### Based on the diagram, what happens first, the ‘render’ or the ‘componentDidMount’? depends on the diagram  render is going to be first 
 
- ## What is the very first thing to happen in the lifecycle of React? Mounting (constructor) the most important thing is to build it
+ ###  What is the very first thing to happen in the lifecycle of React? Mounting (constructor) the most important thing is to build it
 
 ## Put the following things in the order that they happen?
 ### 1)constructor ,2)render ,3)React Updates ,4)componentDidMount ,5)componentWillUnmount .
