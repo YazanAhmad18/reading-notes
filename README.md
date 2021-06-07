@@ -59,7 +59,7 @@ class        |           link
 ------------ | ------------- 
 read01      | [Introduction to React and Components](301/read01.md)
 read02        |[lifecycle](301/read02.md)
-read03       |  
+read03       |  [Passing Functions as Props](301/read03.md)
 read04       |  
 read05 |         
 read06 |          
