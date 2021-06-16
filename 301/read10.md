@@ -9,16 +9,10 @@
 
 # Draw an example of a call stack and the functions that would need to be invoked to generate that call stack?
 
-##  function firstFunction(){
-  ## console.log("Hello from firstFunction");
-## }
 
-## function secondFunction(){
-  ## firstFunction();
-  ## console.log("The end from secondFunction");
-## }
+![call stack](1.png)
 
-## secondFunction()`
+
 
 # What causes a Stack Overflow?
 ## The most-common cause of stack overflow is excessively deep or infinite recursion, in which a function calls itself so many times that the space needed to store the variables and information associated with each call is more than can fit on the stack
