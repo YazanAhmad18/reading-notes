@@ -68,7 +68,7 @@ read08 |         [APIs](301/read08.md)
 read09|          [ FUNCTIONAL PROGRAMMING](301/read09.md) 
 read10|          [ In memory storage](301/read10.md)     
 read11|           [ Authentication](301/read11.md)    
-read12|             
+read12|              [ Authentication](301/read12.md) 
 read13|             
 read14|              
 read15|               
