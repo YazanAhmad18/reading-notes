@@ -71,5 +71,25 @@ read11|           [ Authentication](301/read11.md)
 read12|              [Mongo and Mongoose ](301/read12.md) 
 read13|             [ CRUD ](301/read13.md) 
 read14|             [ Diversity & Inclusion in the Tech Industry ](301/read14.md)   
-read15|               
+              
 
+
+### Code 401 - Advanced Software Development
+
+ 
+class        |           link  
+------------ | ------------- 
+read01      | []()
+read02        |[]()
+read03       |  []()
+read04       |  []()
+read05 |        []()
+read06 |           []()
+read07 |          []()
+read08 |         []()
+read09|          [ ]() 
+read10|          [ ]()     
+read11|           [ ]()    
+read12|              [ ]() 
+read13|             [  ]() 
+read14|             [  ]()   
