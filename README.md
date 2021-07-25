@@ -80,7 +80,7 @@ read14|             [ Diversity & Inclusion in the Tech Industry ](301/read14.md
 class        |           link  
 ------------ | ------------- 
 read01      | [intro](401/class01.md)
-read02        |[]()
+read02        |[Testing and Modules](401/class02.md)
 read03       |  []()
 read04       |  []()
 read05 |        []()
