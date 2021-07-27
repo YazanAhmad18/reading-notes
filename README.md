@@ -82,7 +82,7 @@ class        |           link
 read01      | [intro](401/class01.md)
 read02        |[Testing and Modules](401/class02.md)
 read03       |  [FileIO & Exceptions](401/class03.md)
-read04       |  []()
+read04       |  [Classes and Objects](401/class04.md)
 read05 |        []()
 read06 |           []()
 read07 |          []()
