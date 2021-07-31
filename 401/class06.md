@@ -51,7 +51,7 @@ for i in range(3):
 3. Measures for the risk identified
 
 
-    # Why use Risk Analysis?
+# Why use Risk Analysis?
 
 - In any software, using risk analysis at the beginning of a project highlights the potential problem areas. After knowing about the risk areas, it helps the developers and managers to mitigate the risks. When a test plan has been created, risks involved in testing the product are to be taken into consideration along with the possibility of the damage they may cause to your software along with solutions.
 
