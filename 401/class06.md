@@ -41,8 +41,8 @@ for i in range(3):
 ` print random.randrange(0, 101, 5)`
 ```
     
-    random page feature of your website.
-     ## How to perform Risk Analysis?
+
+## How to perform Risk Analysis?
 
 1. Searching the risk
 
