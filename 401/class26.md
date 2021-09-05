@@ -1,4 +1,4 @@
-# Permissions
+## Permissions
 
 Together with authentication and throttling, permissions determine whether a request should be granted or denied access.
 
