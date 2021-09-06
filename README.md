@@ -1,14 +1,14 @@
 # reading-notes
 
-# Introduction about myself
+## Introduction about myself
 
-### My name is _**Yazan Ahmed**_  a recent graduate from the University of Islamic Sciences, College of Information Technology, specializing in **Software Engineering**, with an **excellent grade**. I have experience with Full Stack Development and a little bit of Java
+## My name is _**Yazan Ahmed**_  a recent graduate from the University of Islamic Sciences, College of Information Technology, specializing in **Software Engineering**, with an **excellent grade**. I have experience with Full Stack Development and a little bit of Java
 
 Gender | age | Nationality | Address
 ------------ | ------------- | ------------- | -------------
 Male | 22| Jordanian | Amman
 
-#### my email :yazan-ahmed1999a@outlook.com
+### my email :yazan-ahmed1999a@outlook.com
 
 #### my phone number : 0770181800
 
