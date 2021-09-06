@@ -97,5 +97,6 @@ read22|             [Django forms](401/class22.md)
 read23|             [Django Custom User](401/class23.md)
 read24|             [Hash Tables](401/class24.md)
 read25|             [Docker](401/class25.md)
-read26|             [Permissions](401/class26.md)
 read27|             [Authentication](401/class27.md)
+read26|             [Permissions](401/class26.md)
+
