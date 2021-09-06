@@ -1,4 +1,4 @@
-## Introduction to JSON Web Tokens
+# Introduction to JSON Web Tokens
 
 ## What is JSON Web Token?
 
@@ -27,8 +27,7 @@ The header typically consists of two parts: the type of the token, which is JWT,
 
 For example:
 
-```
-{
+```{
   "alg": "HS256",
   "typ": "JWT"
 }
@@ -55,7 +54,8 @@ An example payload could be:
 }
 ```
 
-# How do JSON Web Tokens work?
+## How do JSON Web Tokens work?
+
 * In authentication, when the user successfully logs in using their credentials, a JSON Web Token will be returned. Since tokens are credentials, great care must be taken to prevent security issues. In general, you should not keep tokens longer than required.
 
 * You also should not store sensitive session data in browser storage due to lack of security.
@@ -82,7 +82,7 @@ The JWT is acquired by exchanging an username + password for an access token and
 
 * The **refresh token** lives a little bit longer (expires in 24 hours, also customizable). It is comparable to an authentication session. After it expires, you need a full login with username + password again.
 
-![](https://miro.medium.com/max/630/1*IqAodJn46th31XLkU5Qf1w.jpeg)
+![img](https://miro.medium.com/max/630/1*IqAodJn46th31XLkU5Qf1w.jpeg)
 
 ### Setup
 
@@ -90,8 +90,7 @@ The JWT is acquired by exchanging an username + password for an access token and
 
 * settings.py
 
-```
-REST_FRAMEWORK = {
+```REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': [
         'rest_framework_simplejwt.authentication.JWTAuthentication',
     ],
@@ -100,8 +99,7 @@ REST_FRAMEWORK = {
 
 * urls.py
 
-```
-from django.urls import path
+```from django.urls import path
 from rest_framework_simplejwt import views as jwt_views
 
 urlpatterns = [
