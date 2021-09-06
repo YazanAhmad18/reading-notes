@@ -1,4 +1,4 @@
-# Introduction to JSON Web Tokens
+## Introduction to JSON Web Tokens
 
 ## What is JSON Web Token?
 
