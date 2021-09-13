@@ -152,3 +152,38 @@ function tick() {
 
 setInterval(tick, 1000);
 ```
+
+## Utility First CSS
+
+- Tailwind’s flexbox and padding utilities (flex, flex-shrink-0, and p-6) to control the overall card layout
+- The max-width and margin utilities (max-w-sm and mx-auto) to constrain the card width and center it horizontally
+- The background color, border radius, and box-shadow utilities (bg-white, rounded-xl, and shadow-md) to style - the card’s appearance
+- The width and height utilities (w-12 and h-12) to size the logo image
+- The space-between utilities (space-x-4) to handle the spacing between the logo and the text
+- The font size, text color, and font-weight utilities (text-xl, text-black, font-medium, etc.) to style the card text
+
+
+## Why not just use inline styles?
+A common reaction to this approach is wondering, “isn’t this just inline styles?” and in some ways it is — you’re applying styles directly to elements instead of assigning them a class name and then styling that class.
+
+But using utility classes has a few important advantages over inline styles:
+
+* Designing with constraints. Using inline styles, every value is a magic number. With utilities, you’re choosing styles from a predefined design system, which makes it much easier to build visually consistent UIs.
+* Responsive design. You can’t use media queries in inline styles, but you can use Tailwind’s responsive utilities to build fully responsive interfaces easily.
+* Hover, focus, and other states. Inline styles can’t target states like hover or focus, but Tailwind’s state variants make it easy to style those states with utility classes.
+
+
+## Next.js: The React Framework
+
+Enter Next.js, the React Framework. Next.js provides a solution to all of the above problems. But more importantly, it puts you and your team in the pit of success when building React applications.
+
+Next.js aims to have best-in-class developer experience and many built-in features, such as:
+
+* An intuitive page-based routing system (with support for dynamic routes)
+* Pre-rendering, both static generation (SSG) and server-side rendering (SSR) are supported on a per-page basis
+* Automatic code splitting for faster page loads
+* Client-side routing with optimized prefetching
+* Built-in CSS and Sass support, and support for any CSS-in-JS library
+* Development environment with Fast Refresh support
+* API routes to build API endpoints with Serverless Functions
+* Fully extendable
